@@ -10,8 +10,13 @@ Light hood (for brightly lit rooms):
 Hardware:
 
 ■ Wemos D1: https://geni.us/wemosD1
+
 ■ MAX7219 Display Matrix: https://geni.us/MAX7219DotMatrix
+
 ■ Mini Breadboard: http://geni.us/MiniBreadboard
+
 ■ Breadboard Jumper Cables: http://geni.us/JumperWires
+
 ■ USB A to USB Micro B Cable: http://geni.us/USBAtoUSBB
+
 ■ Nuts and Bolts: http://geni.us/NutsAndBolts
