@@ -5,7 +5,7 @@ Shows your current number of subcribers and total channel view count. It's built
 
 Full Step-by-Step Guide: Youtube Subcriber Counter by DIY Machines: https://youtu.be/QWaVYCVoqbc
 
-3D Files:
+3D Files: https://www.thingiverse.com/thing:3444779
 
 Light hood (for brightly lit rooms): https://lewisaburrow.selz.com/item/5c6fc78d701f5d03b4696df8
 
