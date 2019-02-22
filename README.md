@@ -9,6 +9,7 @@ Full Step-by-Step Guide: Youtube Subcriber Counter by DIY Machines: https://yout
 
 Light hood (for brightly lit rooms):
 
+
 Hardware:
 
 ■ Wemos D1: https://geni.us/wemosD1
