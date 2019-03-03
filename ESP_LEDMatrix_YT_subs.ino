@@ -2,7 +2,7 @@
 
 const char* ssid     = "Your-SSID-Here";      // SSID of local network
 const char* password = "Your-Wifi-Password-Here";    // Password on network
-const char* YTchannel = "Your-Youtube-User-ID-Here";   // YT user id
+const char* YTchannel = "Your-Youtube-Channel-ID-Here";   // YT channel id
 
 // ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -13,12 +13,17 @@ const char* YTchannel = "Your-Youtube-User-ID-Here";   // YT user id
 
   Revised by Lewis for DIY Machines
   https://youtu.be/QWaVYCVoqbc
+  
+  I made an error in the video - you need to input your YouTube Channel ID above, not your User ID.
 
   VCC - 3.3v
   GND - G
   D8 - DataIn
   D7 - LOAD/CS
   D6 - CLK
+  
+  If you have difficulties try going to your Arduino IDE Board Manager and rolling back the 'ESP8266 by ESP8266 Community' to
+  version 2.4.2 
 */
 
 #include "Arduino.h"
