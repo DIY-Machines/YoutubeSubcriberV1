@@ -7,7 +7,7 @@ Full Step-by-Step Guide: Youtube Subcriber Counter by DIY Machines: https://yout
 
 3D Files: https://www.thingiverse.com/thing:3444779
 
-Light hood (for brightly lit rooms):https://selz.co/4kk382drL
+Light hood (for brightly lit rooms):https://www.etsy.com/uk/listing/1077980540
 
 
 Hardware:
